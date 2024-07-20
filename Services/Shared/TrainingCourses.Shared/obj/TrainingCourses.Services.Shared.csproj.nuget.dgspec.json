@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rabiademir/Projects/Microservices/Services/Shared/TrainingCourses.Shared/TrainingCourses.Services.Shared.csproj": {}
+  },
+  "projects": {
+    "/Users/rabiademir/Projects/Microservices/Services/Shared/TrainingCourses.Shared/TrainingCourses.Services.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rabiademir/Projects/Microservices/Services/Shared/TrainingCourses.Shared/TrainingCourses.Services.Shared.csproj",
+        "projectName": "TrainingCourses.Services.Shared",
+        "projectPath": "/Users/rabiademir/Projects/Microservices/Services/Shared/TrainingCourses.Shared/TrainingCourses.Services.Shared.csproj",
+        "packagesPath": "/Users/rabiademir/.nuget/packages/",
+        "outputPath": "/Users/rabiademir/Projects/Microservices/Services/Shared/TrainingCourses.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rabiademir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

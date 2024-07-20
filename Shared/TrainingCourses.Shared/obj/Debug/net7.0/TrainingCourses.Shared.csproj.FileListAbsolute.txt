@@ -1,0 +1,12 @@
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/bin/Debug/net7.0/TrainingCourses.Shared.deps.json
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/bin/Debug/net7.0/TrainingCourses.Shared.dll
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/bin/Debug/net7.0/TrainingCourses.Shared.pdb
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/Debug/net7.0/TrainingCourses.Shared.csproj.AssemblyReference.cache
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/Debug/net7.0/TrainingCourses.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/Debug/net7.0/TrainingCourses.Shared.AssemblyInfoInputs.cache
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/Debug/net7.0/TrainingCourses.Shared.AssemblyInfo.cs
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/Debug/net7.0/TrainingCourses.Shared.csproj.CoreCompileInputs.cache
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/Debug/net7.0/TrainingCourses.Shared.dll
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/Debug/net7.0/refint/TrainingCourses.Shared.dll
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/Debug/net7.0/TrainingCourses.Shared.pdb
+/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/Debug/net7.0/ref/TrainingCourses.Shared.dll

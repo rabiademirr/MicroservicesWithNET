@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TrainingCourses.Services.Catalog.props" />
+</Project>

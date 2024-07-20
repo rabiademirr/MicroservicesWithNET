@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NsYJ5QYt8ZB6NbiII59wZtJ7bOaqH2WVl7wdA0S583fkQ7PdbXv1wbf4zJmU/lvJwUfHVnRCfJPcyNhsaWXyw==",
+  "success": true,
+  "projectFilePath": "/Users/rabiademir/Projects/Microservices/Services/Shared/TrainingCourses.Shared/TrainingCourses.Services.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/rabiademir/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/rabiademir/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
