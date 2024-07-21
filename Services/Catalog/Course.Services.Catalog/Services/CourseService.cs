@@ -113,7 +113,8 @@ namespace TrainingCourses.Services.Catalog.Services
             {
                 return Response<NoContent>.Error("Course not found!",404);
             }
-            //dsdsd
+
+      
 
         }
 
