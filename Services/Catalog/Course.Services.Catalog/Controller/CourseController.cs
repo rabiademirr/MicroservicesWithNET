@@ -6,6 +6,7 @@ using TrainingCourses.Shared.BaseController;
 namespace TrainingCourses.Services.Catalog.Controller
 {
     [Route("api/[controller]")]
+    [ApiController]
     public class CourseController : CustomBaseController
 
     {

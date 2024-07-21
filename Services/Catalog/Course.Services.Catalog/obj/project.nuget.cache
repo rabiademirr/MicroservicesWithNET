@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9PLGM/63ems+v2nbXayw0G3CK0+EsI1vpfpA6x4E/AmCsnR8IHi0efiHgFNDsHHFzaHY6vs7Zkdcgs006jIm4A==",
+  "dgSpecHash": "iuaJ21pOCNHX+UMxH6Fl/O5OLW3LbdZSMgFegGgrdGW4Hwqw+X/v8D92FM1Nj+7U1zBjV2FdWHJTEBLFYlVdIA==",
   "success": true,
   "projectFilePath": "/Users/rabiademir/Github/MicroservicesWithNET/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj",
   "expectedPackageFiles": [
