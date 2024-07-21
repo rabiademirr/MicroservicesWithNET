@@ -20,6 +20,7 @@
     <None Remove="Dtos\" />
     <None Remove="Settings\" />
     <None Remove="Services\" />
+    <None Remove="Controller\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -27,6 +28,7 @@
     <Folder Include="Dtos\" />
     <Folder Include="Settings\" />
     <Folder Include="Services\" />
+    <Folder Include="Controller\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\Shared\TrainingCourses.Shared\TrainingCourses.Shared.csproj">

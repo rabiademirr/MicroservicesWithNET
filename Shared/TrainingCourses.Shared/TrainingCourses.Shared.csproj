@@ -8,8 +8,14 @@
 
   <ItemGroup>
     <None Remove="Dtos\" />
+    <None Remove="BaseController\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Dtos\" />
+    <Folder Include="BaseController\" />
+  </ItemGroup>
+
+  <ItemGroup>
+      <FrameworkReference Include="Microsoft.AspNetCore.App"/>
   </ItemGroup>
 </Project>

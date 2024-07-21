@@ -1,18 +1,22 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{EC8D5913-6ABD-4128-8AFB-E6F7FAC4C192}|http">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Catalog/Course.Services.Catalog/Controller/CourseController.cs">
+    <Files>
+      <File FileName="Services/Catalog/Course.Services.Catalog/Controller/CourseController.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Microservices" selected="True">
-            <Node name="Services" expanded="True">
-              <Node name="Catalog" expanded="True" />
-              <Node name="Shared" expanded="True">
-                <Node name="TrainingCourses.Shared" expanded="True">
-                  <Node name="Dtos" expanded="True" />
+          <Node name="Microservices">
+            <Node name="Services">
+              <Node name="Catalog">
+                <Node name="TrainingCourses.Services.Catalog">
+                  <Node name="Controller" expanded="True">
+                    <Node name="CourseController.cs" selected="True" />
+                  </Node>
+                  <Node name="Services" expanded="True" />
                 </Node>
               </Node>
             </Node>
-            <Node name="Solution Items" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -20,7 +24,9 @@
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Services.Catalog.TrainingCourses.Services.Catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
