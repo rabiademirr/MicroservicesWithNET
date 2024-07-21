@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rabiademir/Projects/Microservices/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj": {}
+    "/Users/rabiademir/Github/MicroservicesWithNET/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj": {}
   },
   "projects": {
-    "/Users/rabiademir/Projects/Microservices/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj": {
+    "/Users/rabiademir/Github/MicroservicesWithNET/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rabiademir/Projects/Microservices/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj",
+        "projectUniqueName": "/Users/rabiademir/Github/MicroservicesWithNET/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj",
         "projectName": "TrainingCourses.Services.Catalog",
-        "projectPath": "/Users/rabiademir/Projects/Microservices/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj",
+        "projectPath": "/Users/rabiademir/Github/MicroservicesWithNET/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj",
         "packagesPath": "/Users/rabiademir/.nuget/packages/",
-        "outputPath": "/Users/rabiademir/Projects/Microservices/Services/Catalog/Course.Services.Catalog/obj/",
+        "outputPath": "/Users/rabiademir/Github/MicroservicesWithNET/Services/Catalog/Course.Services.Catalog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rabiademir/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj": {
-                "projectPath": "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj"
+              "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj": {
+                "projectPath": "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj": {
+    "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
+        "projectUniqueName": "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
         "projectName": "TrainingCourses.Shared",
-        "projectPath": "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
+        "projectPath": "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
         "packagesPath": "/Users/rabiademir/.nuget/packages/",
-        "outputPath": "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/",
+        "outputPath": "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rabiademir/.nuget/NuGet/NuGet.Config"

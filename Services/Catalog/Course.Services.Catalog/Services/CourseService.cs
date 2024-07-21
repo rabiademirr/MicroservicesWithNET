@@ -116,6 +116,10 @@ namespace TrainingCourses.Services.Catalog.Services
 
         }
 
+
+
+
+
     }
 }
 

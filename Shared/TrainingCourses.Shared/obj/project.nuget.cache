@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FEhtd/kzhveFQYWcG2YYxFF3U2cYMKedRhfWPQRaefbXRn2BKUyU/mlUtq/0GGnGgnBa4RbsWgEfWEU1qU9H8Q==",
+  "dgSpecHash": "Ut03wO0RixmowXR6YuntDHdL2UHPKc2/NmxFsDMcZK2zfGnu7gPVElH+RFSxeIU2tStYuP4eiPXS6ZdT7qMuoQ==",
   "success": true,
-  "projectFilePath": "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
+  "projectFilePath": "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj": {}
+    "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj": {}
   },
   "projects": {
-    "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj": {
+    "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
+        "projectUniqueName": "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
         "projectName": "TrainingCourses.Shared",
-        "projectPath": "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
+        "projectPath": "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
         "packagesPath": "/Users/rabiademir/.nuget/packages/",
-        "outputPath": "/Users/rabiademir/Projects/Microservices/Shared/TrainingCourses.Shared/obj/",
+        "outputPath": "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rabiademir/.nuget/NuGet/NuGet.Config"

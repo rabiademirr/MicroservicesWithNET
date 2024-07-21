@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T5pMDlEZSb9Jf8vLzx1mNHcU8NClkEpZ4T5rE4wB7HnWAIu2KhceGorkYFxablqpUpSC7b2l0ncpoliAwWDOMQ==",
+  "dgSpecHash": "9PLGM/63ems+v2nbXayw0G3CK0+EsI1vpfpA6x4E/AmCsnR8IHi0efiHgFNDsHHFzaHY6vs7Zkdcgs006jIm4A==",
   "success": true,
-  "projectFilePath": "/Users/rabiademir/Projects/Microservices/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj",
+  "projectFilePath": "/Users/rabiademir/Github/MicroservicesWithNET/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj",
   "expectedPackageFiles": [
     "/Users/rabiademir/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
