@@ -1,1 +1,5 @@
-/obj/project.nuget.cache
+/xs/project-cache/TrainingCourses.Services.Catalog-Debug.json
+/xs/project-cache/TrainingCourses.Shared-Debug.json
+Services/Catalog/Course.Services.Catalog/obj/Debug/net7.0/TrainingCourses.Services.Catalog.csproj.CoreCompileInputs.cache
+Services/Catalog/Course.Services.Catalog/obj/project.nuget.cache
+Shared/TrainingCourses.Shared/obj/project.nuget.cache
