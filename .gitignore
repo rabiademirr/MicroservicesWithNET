@@ -4,3 +4,5 @@ Services/Catalog/Course.Services.Catalog/obj/Debug/net7.0/TrainingCourses.Servic
 Services/Catalog/Course.Services.Catalog/obj/project.nuget.cache
 Shared/TrainingCourses.Shared/obj/project.nuget.cache
 Services/Catalog/Course.Services.Catalog/obj/Debug/net7.0/refint/TrainingCourses.Services.Catalog.dll
+Services/Catalog/Course.Services.Catalog/obj/Debug/net7.0/TrainingCourses.Services.Catalog.pdb
+Services/Catalog/Course.Services.Catalog/obj/Debug/net7.0/TrainingCourses.Services.Catalog.csproj.AssemblyReference.cache
