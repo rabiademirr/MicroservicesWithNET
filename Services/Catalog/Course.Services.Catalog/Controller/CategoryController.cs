@@ -17,6 +17,7 @@ namespace TrainingCourses.Services.Catalog.Controller
             _categoyService = categoyService;
         }
 
+
         [HttpGet]
         public async Task<IActionResult> GetAllCategories()
         {
@@ -42,7 +43,10 @@ namespace TrainingCourses.Services.Catalog.Controller
 
             return CreateActionResult(newCategory);
 
+
+
         }
+
 
  
     }

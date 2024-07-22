@@ -34,6 +34,7 @@ namespace TrainingCourses.Services.Catalog.Controller
 
         }
 
+        [HttpGet]
         [Route("/api/[controller]/GetCoursesByUserId/{userId}")]
         public async Task<IActionResult> GetCoursesByUserId(string userId)
         {
