@@ -107,6 +107,19 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "TrainingCourses.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TrainingCourses.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrainingCourses.Shared.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -460,12 +473,18 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "TrainingCourses.Shared/1.0.0": {
+      "type": "project",
+      "path": "../../../Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj",
+      "msbuildProject": "../../../Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.OpenApi >= 7.0.20",
-      "Swashbuckle.AspNetCore >= 6.5.0"
+      "Swashbuckle.AspNetCore >= 6.5.0",
+      "TrainingCourses.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -493,7 +512,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj": {
+              "projectPath": "/Users/rabiademir/Github/MicroservicesWithNET/Shared/TrainingCourses.Shared/TrainingCourses.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
