@@ -24,6 +24,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImageStock", "ImageStock", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingCourses.Services.ImageStock", "Services\ImageStock\TrainingCourses.Services.ImageStock\TrainingCourses.Services.ImageStock.csproj", "{E3C6F961-C943-485C-A4B2-1BDC50E59318}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{C16C2476-7CC7-410F-8F70-2C9BBC5774D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingCourses.Services.Basket", "Services\Basket\TrainingCourses.Services.Basket\TrainingCourses.Services.Basket.csproj", "{09BD9B75-AEAF-40E6-AF3C-B5E3BD6D9861}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +46,10 @@ Global
 		{E3C6F961-C943-485C-A4B2-1BDC50E59318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3C6F961-C943-485C-A4B2-1BDC50E59318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3C6F961-C943-485C-A4B2-1BDC50E59318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BD9B75-AEAF-40E6-AF3C-B5E3BD6D9861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BD9B75-AEAF-40E6-AF3C-B5E3BD6D9861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BD9B75-AEAF-40E6-AF3C-B5E3BD6D9861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BD9B75-AEAF-40E6-AF3C-B5E3BD6D9861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,5 +64,7 @@ Global
 		{B8B8232C-3CC1-47A2-A08F-6158F568A5B8} = {73B59A88-A407-416F-8F31-7C784A23A94F}
 		{440C9A35-A1DF-483A-9C4A-A1A05C6544F9} = {73B59A88-A407-416F-8F31-7C784A23A94F}
 		{E3C6F961-C943-485C-A4B2-1BDC50E59318} = {440C9A35-A1DF-483A-9C4A-A1A05C6544F9}
+		{C16C2476-7CC7-410F-8F70-2C9BBC5774D8} = {73B59A88-A407-416F-8F31-7C784A23A94F}
+		{09BD9B75-AEAF-40E6-AF3C-B5E3BD6D9861} = {C16C2476-7CC7-410F-8F70-2C9BBC5774D8}
 	EndGlobalSection
 EndGlobal
