@@ -1,5 +1,4 @@
-﻿using System;
-using TrainingCourses.Services.Basket.Dtos;
+﻿using TrainingCourses.Services.Basket.Dtos;
 using TrainingCourses.Shared.Dtos;
 
 namespace TrainingCourses.Services.Basket.Services
