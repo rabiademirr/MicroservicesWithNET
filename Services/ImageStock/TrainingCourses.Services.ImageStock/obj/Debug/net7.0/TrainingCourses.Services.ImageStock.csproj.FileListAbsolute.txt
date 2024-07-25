@@ -32,3 +32,5 @@
 /Users/rabiademir/Github/MicroservicesWithNET/Services/ImageStock/TrainingCourses.Services.ImageStock/obj/Debug/net7.0/TrainingCourses.Services.ImageStock.pdb
 /Users/rabiademir/Github/MicroservicesWithNET/Services/ImageStock/TrainingCourses.Services.ImageStock/obj/Debug/net7.0/TrainingCourses.Services.ImageStock.genruntimeconfig.cache
 /Users/rabiademir/Github/MicroservicesWithNET/Services/ImageStock/TrainingCourses.Services.ImageStock/obj/Debug/net7.0/ref/TrainingCourses.Services.ImageStock.dll
+/Users/rabiademir/Github/MicroservicesWithNET/Services/ImageStock/TrainingCourses.Services.ImageStock/bin/Debug/net7.0/TrainingCourses.Shared.dll
+/Users/rabiademir/Github/MicroservicesWithNET/Services/ImageStock/TrainingCourses.Services.ImageStock/bin/Debug/net7.0/TrainingCourses.Shared.pdb
