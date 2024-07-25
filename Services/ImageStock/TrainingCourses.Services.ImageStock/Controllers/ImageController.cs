@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using TrainingCourses.Services.ImageStock.Dtos;
 using TrainingCourses.Shared.BaseController;
 using TrainingCourses.Shared.Dtos;
@@ -38,6 +34,19 @@ namespace TrainingCourses.Services.ImageStock.Controllers
 
                 return CreateActionResult(Response<ImageDto>.Error("Image empty",400));
            
+
+        }
+        [HttpDelete]
+        public IActionResult DeleteImage(string imageUrl)
+        {
+            var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", imageUrl);
+            if (!System.IO.File.Exists(path))
+            {
+                return CreateActionResult(Response<NoContent>.Error("Image not found!",404));
+            }
+            System.IO.File.Delete(path);
+
+            return CreateActionResult(Response<NoContent>.Success(204));
 
         }
         
