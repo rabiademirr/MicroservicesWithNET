@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "kfWgO0SKuRA2AXnrygZXzHocyec/lDbawyiIdDFFwjs=",
+  "Source": "TrainingCourses.Services.ImageStock",
+  "BasePath": "_content/TrainingCourses.Services.ImageStock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TrainingCourses.Services.ImageStock/wwwroot",
+      "Source": "TrainingCourses.Services.ImageStock",
+      "ContentRoot": "/Users/rabiademir/Github/MicroservicesWithNET/Services/ImageStock/TrainingCourses.Services.ImageStock/wwwroot/",
+      "BasePath": "_content/TrainingCourses.Services.ImageStock",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
