@@ -35,6 +35,7 @@ namespace TrainingCourses.Services.Basket.Services
 
         public async Task<Response<bool>> SaveOrUpdate(BasketDto basketDto)
         {
+
             var status = await _redisService.GetDatabase().StringSetAsync(basketDto.UserId, JsonSerializer.Serialize(basketDto));
 
             return status ? Response<bool>.Success(204) : Response<bool>.Error("Could not update or save!", 500);
