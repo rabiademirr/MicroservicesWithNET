@@ -2,3 +2,4 @@
 - Catalog API => 5010
 - ImageStock API => 5012
 - Basket API => 5013
+- IdentityServer => 5014  

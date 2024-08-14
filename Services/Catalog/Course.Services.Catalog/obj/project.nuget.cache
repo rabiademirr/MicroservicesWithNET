@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "gMBo1QXcha5SSgA3nW3SH9QxR7jZrEWUxcxb8QPzkoQGFpLaXUlTqKoeemIW0RL72qyPg3Y/TYwP31fQnUDMqA==",
-  "success": true,
+  "dgSpecHash": "KnvtW8t9vJ7QADlYbWF+cgxSbAFoN6NINNmFuTeRbI2dLk7fJJ/pbRFQKj80/MeSQVgAjmA5/cMKniMGYA87HA==",
+  "success": false,
   "projectFilePath": "/Users/rabiademir/Github/MicroservicesWithNET/Services/Catalog/Course.Services.Catalog/TrainingCourses.Services.Catalog.csproj",
   "expectedPackageFiles": [
     "/Users/rabiademir/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
@@ -9,6 +9,7 @@
     "/Users/rabiademir/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
+    "/Users/rabiademir/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.0/microsoft.aspnetcore.authentication.jwtbearer.7.0.0.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
@@ -16,6 +17,12 @@
     "/Users/rabiademir/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/rabiademir/.nuget/packages/microsoft.identitymodel.abstractions/8.0.1/microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "/Users/rabiademir/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.0.1/microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "/Users/rabiademir/.nuget/packages/microsoft.identitymodel.logging/8.0.1/microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "/Users/rabiademir/.nuget/packages/microsoft.identitymodel.protocols/7.0.0/microsoft.identitymodel.protocols.7.0.0.nupkg.sha512",
+    "/Users/rabiademir/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.0.0/microsoft.identitymodel.protocols.openidconnect.7.0.0.nupkg.sha512",
+    "/Users/rabiademir/.nuget/packages/microsoft.identitymodel.tokens/8.0.1/microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
@@ -30,11 +37,22 @@
     "/Users/rabiademir/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/rabiademir/.nuget/packages/system.identitymodel.tokens.jwt/7.0.0/system.identitymodel.tokens.jwt.7.0.0.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
     "/Users/rabiademir/.nuget/packages/zstdsharp.port/0.7.3/zstdsharp.port.0.7.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: Swashbuckle.AspNetCore from 6.7.0 to 6.6.2. Reference the package directly from the project to select a different version. \n TrainingCourses.Services.Catalog -> TrainingCourses.IdentityService -> Swashbuckle.AspNetCore (>= 6.7.0) \n TrainingCourses.Services.Catalog -> Swashbuckle.AspNetCore (>= 6.6.2)",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

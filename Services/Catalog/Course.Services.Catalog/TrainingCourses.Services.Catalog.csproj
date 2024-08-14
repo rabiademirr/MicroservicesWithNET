@@ -34,5 +34,8 @@
     <ProjectReference Include="..\..\..\Shared\TrainingCourses.Shared\TrainingCourses.Shared.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+    <ProjectReference Include="..\..\..\TrainingCourses.IdentityService\TrainingCourses.IdentityService.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>
